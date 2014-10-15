@@ -14,7 +14,20 @@ Projekte lassen sich direkt aus NetBeans heraus "pushen". Gehen wir also zunäch
 
 1. Markiert unter "Projects" (auf der linken Seite des Fensters) euer Projekt.
 2. Wählt in der Menüleiste oben "Team > Git > Initialize".
-3. Wählt einen Pfad für euer sogenanntes "Repository" (normalerweise der gleiche Pfad, wie der Projektpfad).
+3. Wählt einen Pfad für euer sogenanntes "Repository".
 4. In der oberen Menüleiste "Team > Commit" auswählen.
 5. Im erscheinenden Fenster alles bei den Voreinstellungen lassen und unten auf "Commit" klicken.
-6. 
+6. Meldet euch auf "www.github.com" an und begebt euch auf die Startseite der Organization.
+7. Wählt "+New Repository".
+8. Vergebt einen Namen für das Repository nach folgendem Muster: "epr-aufgabe-xx-nachname".
+9. Optional: Habt ihr schon eine Bewertung erhalten, tragt unter "Description" die Erfolgsquote ein.
+10. Lasst die restlichen Einstellungen unverändert und klickt auf "Create Repository".
+11. Kopiert den Link aus dem Feld "Quick Setup".
+12. Zurück zu NetBeans und in der Menüleiste oben "Team > Remote > Push..." auswählen.
+13. Im erscheinenden Fenster den Radio-Button "Specify Git-Repository-Location" anklicken.
+14. Fügt in das Feld den aus Schritt 11 kopierten Link ein.
+15. Gebt unter "User" und "Password" eure Zugangsdaten für GitHub ein und klickt auf "Next...".
+16. Markiert oben den Eintrag "master -> master [A]" und nochmal auf "Next..." klicken.
+17. Klickt auf "Finish".
+
+Habt ihr alles richtig gemacht, sollte euer Projekt jetzt in der Organization auftauchen.
