@@ -1,7 +1,7 @@
 EINSTIEG-IN-GITHUB
 ==================
 
-In dieser GitHub Organization, findet ihr Lösungsvorschläge zu den Praktikumsaufgaben aus Einführung in die Programmierung. Eine Anmeldung ist für reinen Lesezugriff nicht erforderlich. Es wäre jedoch super, wenn sich (besonders bei den härteren Aufgaben) viele Leute aktiv beteiligen. Habt ihr ein Konto angelegt, schreibt einfach eine kurze Nachricht an "krgerdog" oder "Sedrix" für eine Einladung in die Organization.
+In dieser GitHub Organization, findet ihr Lösungsvorschläge zu den Praktikumsaufgaben aus "Einführung in die Programmierung". Eine Anmeldung ist für reinen Lesezugriff nicht erforderlich. Es wäre jedoch super, wenn sich (besonders bei den härteren Aufgaben) viele Leute aktiv beteiligen. Habt ihr ein Konto angelegt, schreibt einfach eine kurze Nachricht an "krgerdog" oder "Sedrix" für eine Einladung in die Organization.
 
 <br></br>
 <b>WICHTIG:</b>
