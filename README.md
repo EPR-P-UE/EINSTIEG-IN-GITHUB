@@ -5,7 +5,7 @@ In dieser GitHub Organization, findet ihr Lösungsvorschläge zu den Praktikumsa
 
 <b>WICHTIG:</b>
 
-Diese Seite soll nicht dazu dienen, hirnlos die Arbeit anderer zu kopieren und die eigene Erfolgsquote oben zu halten. Ein gut gemeinter Rat ist also, solange wie möglich alleine an einer Aufgabe zu knobeln und nur wenn man überhaupt nicht zu einer Lösung kommt, bei anderen zu "spicken". Alles andere rächt sich spätestens in der Klausur!
+Diese Seite soll nicht dazu dienen, hirnlos die Arbeit anderer zu kopieren und die eigene Erfolgsquote oben zu halten. Ein gut gemeinter Rat ist also, solange wie möglich alleine an einer Aufgabe zu knobeln und nur wenn man überhaupt nicht zu einer Lösung kommt, bei anderen zu spicken. Alles andere rächt sich spätestens in der Klausur.
 
 
 <b>Wie lade ich eigene Projekte hoch?</b>
