@@ -31,3 +31,8 @@ Projekte lassen sich direkt aus NetBeans heraus "pushen". Gehen wir also zunäch
 17. Klickt auf "Finish".
 
 Habt ihr alles richtig gemacht, sollte euer Projekt jetzt in der Organization auftauchen.
+
+
+Sibbe
+
+P.S. GitHub gibt es übrigens auch als Desktop-Anwendung für Windows, als App für Mac OS, iOS und Android.
