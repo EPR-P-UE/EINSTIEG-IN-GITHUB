@@ -1,4 +1,4 @@
 EINSTIEG-IN-GITHUB
 ==================
 
-Schaut am besten zuerst hier vorbei.
+Hier kommen in den nächsten Tagen ein paar Tipps und Anleitungen, zur Verwendung von GitHub rein.
