@@ -34,7 +34,7 @@ Und hier nochmal als Video: https://netbeans.org/kb/docs/ide/github_nb_screencas
 
 Habt ihr alles richtig gemacht, sollte euer Projekt jetzt in der Organization auftauchen.
 
-
+<br></br>
 Sibbe
 
 P.S. GitHub gibt es übrigens auch als Desktop-Anwendung für Windows, als App für Mac OS, iOS und Android.
