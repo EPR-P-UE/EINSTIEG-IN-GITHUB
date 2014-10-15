@@ -12,5 +12,9 @@ Diese Seite soll nicht dazu dienen, hirnlos die Arbeit anderer zu kopieren und d
 
 Projekte lassen sich direkt aus NetBeans heraus "pushen". Gehen wir also zunächst davon aus, ihr habt eine Aufgabe bearbeitet, befindet euch in der IDE und wollt nun euer Ergebnis ganz prollig dem Rest von uns präsentieren:
 
-1. Markiert unter "Projects" auf der linken Seite des Fensters euer Projekt.
-2. Wählt in der Menüleiste oben "Team > Git > Initialize"
+1. Markiert unter "Projects" (auf der linken Seite des Fensters) euer Projekt.
+2. Wählt in der Menüleiste oben "Team > Git > Initialize".
+3. Wählt einen Pfad für euer sogenanntes "Repository" (normalerweise der gleiche Pfad, wie der Projektpfad).
+4. In der oberen Menüleiste "Team > Commit" auswählen.
+5. Im erscheinenden Fenster alles bei den Voreinstellungen lassen und unten auf "Commit" klicken.
+6. 
