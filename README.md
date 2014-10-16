@@ -11,7 +11,7 @@ Diese Seite soll nicht dazu dienen, hirnlos die Arbeit anderer zu kopieren und d
 <br></br>
 <b>Wie lade ich eigene Projekte hoch?</b>
 
-Projekte lassen sich direkt aus NetBeans heraus "pushen". Gehen wir also zunächst davon aus, ihr habt eine Aufgabe bearbeitet, befindet euch in der IDE und wollt nun euer Ergebnis ganz prollig dem Rest von uns präsentieren:
+Projekte lassen sich direkt aus NetBeans heraus "pushen". Gehen wir also zunächst davon aus, ihr habt eine Aufgabe bearbeitet, befindet euch in der IDE und wollt nun euer Ergebnis dem Rest von uns zur Verfügung stellen:
 
 1. Unter "Projects" (linke Seite des Fensters) euer Projekt markieren.
 2. In der Menüleiste oben "Team > Git > Initialize" auswählen.
