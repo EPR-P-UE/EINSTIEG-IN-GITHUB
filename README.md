@@ -14,7 +14,7 @@ Diese Seite soll nicht dazu dienen, hirnlos die Arbeit anderer zu kopieren und d
 1. Bei GitHub anmelden und auf die Startseite der Organization begeben.
 2. In das Repository "epr-prak-aufgaben" wechseln.
 3. In der Leiste, über den einzelnen Dateien, auf das "+" neben "epr-prak-aufgaben/" klicken.
-4. Dem Lösungsvorschlag einen Namen, nach dem Schema "epr-aufgabe-xx-nachname.java" geben.
+4. Den Lösungsvorschlag nach dem Schema "epr-aufgabe-xx-nachname.java" benennen.
 5. Startet NetBeans und markiert euren kompletten Quellcode mit "STRG+A" (Windows) oder "CMD+A" (Mac).
 6. Drückt nun "STRG+C" (Windows) oder "CMD+C" (Mac), um den Markierten Quellcode zu kopieren.
 7. Zurück in den Browser und fügt den Code per "STRG+V" (Windows) oder "CMD+V" (Mac), in das Textfeld ein.
