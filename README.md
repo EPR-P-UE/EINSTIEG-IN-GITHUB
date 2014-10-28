@@ -23,6 +23,4 @@ Diese Seite soll nicht dazu dienen, hirnlos die Arbeit anderer zu kopieren und d
 
 Habt ihr alles richtig gemacht, sollte euer Projekt jetzt in der Organization auftauchen.
 
-<br></br>
-
 P.S. GitHub gibt es übrigens auch als Desktop-Anwendung für Windows, als App für Mac OS, iOS und Android.
