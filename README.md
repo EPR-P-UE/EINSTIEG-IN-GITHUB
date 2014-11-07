@@ -21,6 +21,6 @@ Diese Seite soll nicht dazu dienen, hirnlos die Arbeit anderer zu kopieren und d
 8. Unten auf den Button "Commit new file" klicken.
 9. Fertig.
 
-Habt ihr alles richtig gemacht, sollte euer Projekt jetzt in der Organization auftauchen.
+Habt ihr alles richtig gemacht, sollte eure Klasse jetzt in der Organization auftauchen.
 
 P.S. GitHub gibt es übrigens auch als Desktop-Anwendung für Windows, als App für Mac OS, iOS und Android.
